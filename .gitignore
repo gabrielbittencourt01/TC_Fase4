@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual e cache
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos sensíveis ou desnecessários
+.env
+*.log
